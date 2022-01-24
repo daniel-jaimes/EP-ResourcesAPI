@@ -1,0 +1,2 @@
+com/strapp/ep_recursosapi/BuildConfig.java
+ com.strapp.ep_recursosapi.BuildConfig
