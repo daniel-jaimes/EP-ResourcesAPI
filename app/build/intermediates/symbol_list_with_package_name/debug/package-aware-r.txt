@@ -2716,6 +2716,7 @@ id honorRequest
 id horizontal_only
 id icon
 id icon_group
+id id_name
 id ifRoom
 id ignore
 id ignoreRequest
@@ -2842,6 +2843,7 @@ id progress_horizontal
 id radio
 id ratio
 id rectangles
+id resultPokemon
 id reverseSawtooth
 id right
 id rightToLeft
@@ -2859,6 +2861,7 @@ id scrollIndicatorDown
 id scrollIndicatorUp
 id scrollView
 id scrollable
+id search
 id search_badge
 id search_bar
 id search_button

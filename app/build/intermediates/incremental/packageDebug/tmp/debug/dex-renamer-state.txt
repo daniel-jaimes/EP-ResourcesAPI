@@ -1,13 +1,16 @@
-#Mon Jan 24 21:33:37 CET 2022
-path.3=9/classes.dex
-path.2=4/classes.dex
+#Tue Jan 25 02:35:06 CET 2022
+path.4=9/classes.dex
+path.3=4/classes.dex
+path.2=12/classes.dex
 path.1=0/classes.dex
 path.0=classes.dex
-base.3=E\:\\Documentos\\Stucom\\OneDrive - Stucom, S.A\\DAM 2n Curso\\M08_M09 - Programacion Multimedia & Dispositivos Moviles\\UF2 - Programacion multimedia\\Examenes\\EP-ResourcesAPI\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
-base.2=E\:\\Documentos\\Stucom\\OneDrive - Stucom, S.A\\DAM 2n Curso\\M08_M09 - Programacion Multimedia & Dispositivos Moviles\\UF2 - Programacion multimedia\\Examenes\\EP-ResourcesAPI\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
+base.4=E\:\\Documentos\\Stucom\\OneDrive - Stucom, S.A\\DAM 2n Curso\\M08_M09 - Programacion Multimedia & Dispositivos Moviles\\UF2 - Programacion multimedia\\Examenes\\EP-ResourcesAPI\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
+base.3=E\:\\Documentos\\Stucom\\OneDrive - Stucom, S.A\\DAM 2n Curso\\M08_M09 - Programacion Multimedia & Dispositivos Moviles\\UF2 - Programacion multimedia\\Examenes\\EP-ResourcesAPI\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\4\\classes.dex
+base.2=E\:\\Documentos\\Stucom\\OneDrive - Stucom, S.A\\DAM 2n Curso\\M08_M09 - Programacion Multimedia & Dispositivos Moviles\\UF2 - Programacion multimedia\\Examenes\\EP-ResourcesAPI\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\12\\classes.dex
 base.1=E\:\\Documentos\\Stucom\\OneDrive - Stucom, S.A\\DAM 2n Curso\\M08_M09 - Programacion Multimedia & Dispositivos Moviles\\UF2 - Programacion multimedia\\Examenes\\EP-ResourcesAPI\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
 base.0=E\:\\Documentos\\Stucom\\OneDrive - Stucom, S.A\\DAM 2n Curso\\M08_M09 - Programacion Multimedia & Dispositivos Moviles\\UF2 - Programacion multimedia\\Examenes\\EP-ResourcesAPI\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
 renamed.3=classes4.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex
+renamed.4=classes5.dex
