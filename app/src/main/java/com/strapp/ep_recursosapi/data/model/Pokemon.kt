@@ -4,7 +4,7 @@ class Pokemon(
     val name: String,
     val height : Int,
     val weight: Int,
-    val abilities: List<Any>,
+    val abilities: List<AbilityGroup>,
 )
 {
 

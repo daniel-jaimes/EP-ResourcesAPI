@@ -6,71 +6,71 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="24"
-8-->E:\Documentos\Stucom\OneDrive - Stucom, S.A\DAM 2n Curso\M08_M09 - Programacion Multimedia & Dispositivos Moviles\UF2 - Programacion multimedia\Examenes\EP-ResourcesAPI\app\src\main\AndroidManifest.xml
+8-->/Users/st2020117/Downloads/EP-ResourcesAPI/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="31" />
-9-->E:\Documentos\Stucom\OneDrive - Stucom, S.A\DAM 2n Curso\M08_M09 - Programacion Multimedia & Dispositivos Moviles\UF2 - Programacion multimedia\Examenes\EP-ResourcesAPI\app\src\main\AndroidManifest.xml
+9-->/Users/st2020117/Downloads/EP-ResourcesAPI/app/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->E:\Documentos\Stucom\OneDrive - Stucom, S.A\DAM 2n Curso\M08_M09 - Programacion Multimedia & Dispositivos Moviles\UF2 - Programacion multimedia\Examenes\EP-ResourcesAPI\app\src\main\AndroidManifest.xml:4:5-66
-11-->E:\Documentos\Stucom\OneDrive - Stucom, S.A\DAM 2n Curso\M08_M09 - Programacion Multimedia & Dispositivos Moviles\UF2 - Programacion multimedia\Examenes\EP-ResourcesAPI\app\src\main\AndroidManifest.xml:4:22-64
+11-->/Users/st2020117/Downloads/EP-ResourcesAPI/app/src/main/AndroidManifest.xml:4:5-66
+11-->/Users/st2020117/Downloads/EP-ResourcesAPI/app/src/main/AndroidManifest.xml:4:22-64
 12
 13    <application
-13-->E:\Documentos\Stucom\OneDrive - Stucom, S.A\DAM 2n Curso\M08_M09 - Programacion Multimedia & Dispositivos Moviles\UF2 - Programacion multimedia\Examenes\EP-ResourcesAPI\app\src\main\AndroidManifest.xml:5:5-21:19
+13-->/Users/st2020117/Downloads/EP-ResourcesAPI/app/src/main/AndroidManifest.xml:5:5-21:19
 14        android:allowBackup="true"
-14-->E:\Documentos\Stucom\OneDrive - Stucom, S.A\DAM 2n Curso\M08_M09 - Programacion Multimedia & Dispositivos Moviles\UF2 - Programacion multimedia\Examenes\EP-ResourcesAPI\app\src\main\AndroidManifest.xml:6:9-35
+14-->/Users/st2020117/Downloads/EP-ResourcesAPI/app/src/main/AndroidManifest.xml:6:9-35
 15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-15-->[androidx.core:core:1.7.0] C:\Users\dajac\.gradle\caches\transforms-3\fb3270031bd107031c21c5dc13d9e5ef\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+15-->[androidx.core:core:1.7.0] /Users/st2020117/.gradle/caches/transforms-3/fb3270031bd107031c21c5dc13d9e5ef/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
 16        android:debuggable="true"
 17        android:extractNativeLibs="false"
 18        android:icon="@mipmap/ic_launcher"
-18-->E:\Documentos\Stucom\OneDrive - Stucom, S.A\DAM 2n Curso\M08_M09 - Programacion Multimedia & Dispositivos Moviles\UF2 - Programacion multimedia\Examenes\EP-ResourcesAPI\app\src\main\AndroidManifest.xml:7:9-43
+18-->/Users/st2020117/Downloads/EP-ResourcesAPI/app/src/main/AndroidManifest.xml:7:9-43
 19        android:label="@string/app_name"
-19-->E:\Documentos\Stucom\OneDrive - Stucom, S.A\DAM 2n Curso\M08_M09 - Programacion Multimedia & Dispositivos Moviles\UF2 - Programacion multimedia\Examenes\EP-ResourcesAPI\app\src\main\AndroidManifest.xml:8:9-41
+19-->/Users/st2020117/Downloads/EP-ResourcesAPI/app/src/main/AndroidManifest.xml:8:9-41
 20        android:roundIcon="@mipmap/ic_launcher_round"
-20-->E:\Documentos\Stucom\OneDrive - Stucom, S.A\DAM 2n Curso\M08_M09 - Programacion Multimedia & Dispositivos Moviles\UF2 - Programacion multimedia\Examenes\EP-ResourcesAPI\app\src\main\AndroidManifest.xml:9:9-54
+20-->/Users/st2020117/Downloads/EP-ResourcesAPI/app/src/main/AndroidManifest.xml:9:9-54
 21        android:supportsRtl="true"
-21-->E:\Documentos\Stucom\OneDrive - Stucom, S.A\DAM 2n Curso\M08_M09 - Programacion Multimedia & Dispositivos Moviles\UF2 - Programacion multimedia\Examenes\EP-ResourcesAPI\app\src\main\AndroidManifest.xml:10:9-35
+21-->/Users/st2020117/Downloads/EP-ResourcesAPI/app/src/main/AndroidManifest.xml:10:9-35
 22        android:testOnly="true"
 23        android:theme="@style/Theme.EPRecursosAPI" >
-23-->E:\Documentos\Stucom\OneDrive - Stucom, S.A\DAM 2n Curso\M08_M09 - Programacion Multimedia & Dispositivos Moviles\UF2 - Programacion multimedia\Examenes\EP-ResourcesAPI\app\src\main\AndroidManifest.xml:11:9-51
+23-->/Users/st2020117/Downloads/EP-ResourcesAPI/app/src/main/AndroidManifest.xml:11:9-51
 24        <activity
-24-->E:\Documentos\Stucom\OneDrive - Stucom, S.A\DAM 2n Curso\M08_M09 - Programacion Multimedia & Dispositivos Moviles\UF2 - Programacion multimedia\Examenes\EP-ResourcesAPI\app\src\main\AndroidManifest.xml:12:9-20:20
+24-->/Users/st2020117/Downloads/EP-ResourcesAPI/app/src/main/AndroidManifest.xml:12:9-20:20
 25            android:name="com.strapp.ep_recursosapi.MainActivity"
-25-->E:\Documentos\Stucom\OneDrive - Stucom, S.A\DAM 2n Curso\M08_M09 - Programacion Multimedia & Dispositivos Moviles\UF2 - Programacion multimedia\Examenes\EP-ResourcesAPI\app\src\main\AndroidManifest.xml:13:13-41
+25-->/Users/st2020117/Downloads/EP-ResourcesAPI/app/src/main/AndroidManifest.xml:13:13-41
 26            android:exported="true" >
-26-->E:\Documentos\Stucom\OneDrive - Stucom, S.A\DAM 2n Curso\M08_M09 - Programacion Multimedia & Dispositivos Moviles\UF2 - Programacion multimedia\Examenes\EP-ResourcesAPI\app\src\main\AndroidManifest.xml:14:13-36
+26-->/Users/st2020117/Downloads/EP-ResourcesAPI/app/src/main/AndroidManifest.xml:14:13-36
 27            <intent-filter>
-27-->E:\Documentos\Stucom\OneDrive - Stucom, S.A\DAM 2n Curso\M08_M09 - Programacion Multimedia & Dispositivos Moviles\UF2 - Programacion multimedia\Examenes\EP-ResourcesAPI\app\src\main\AndroidManifest.xml:15:13-19:29
+27-->/Users/st2020117/Downloads/EP-ResourcesAPI/app/src/main/AndroidManifest.xml:15:13-19:29
 28                <action android:name="android.intent.action.MAIN" />
-28-->E:\Documentos\Stucom\OneDrive - Stucom, S.A\DAM 2n Curso\M08_M09 - Programacion Multimedia & Dispositivos Moviles\UF2 - Programacion multimedia\Examenes\EP-ResourcesAPI\app\src\main\AndroidManifest.xml:16:17-69
-28-->E:\Documentos\Stucom\OneDrive - Stucom, S.A\DAM 2n Curso\M08_M09 - Programacion Multimedia & Dispositivos Moviles\UF2 - Programacion multimedia\Examenes\EP-ResourcesAPI\app\src\main\AndroidManifest.xml:16:25-66
+28-->/Users/st2020117/Downloads/EP-ResourcesAPI/app/src/main/AndroidManifest.xml:16:17-69
+28-->/Users/st2020117/Downloads/EP-ResourcesAPI/app/src/main/AndroidManifest.xml:16:25-66
 29
 30                <category android:name="android.intent.category.LAUNCHER" />
-30-->E:\Documentos\Stucom\OneDrive - Stucom, S.A\DAM 2n Curso\M08_M09 - Programacion Multimedia & Dispositivos Moviles\UF2 - Programacion multimedia\Examenes\EP-ResourcesAPI\app\src\main\AndroidManifest.xml:18:17-77
-30-->E:\Documentos\Stucom\OneDrive - Stucom, S.A\DAM 2n Curso\M08_M09 - Programacion Multimedia & Dispositivos Moviles\UF2 - Programacion multimedia\Examenes\EP-ResourcesAPI\app\src\main\AndroidManifest.xml:18:27-74
+30-->/Users/st2020117/Downloads/EP-ResourcesAPI/app/src/main/AndroidManifest.xml:18:17-77
+30-->/Users/st2020117/Downloads/EP-ResourcesAPI/app/src/main/AndroidManifest.xml:18:27-74
 31            </intent-filter>
 32        </activity>
 33
 34        <provider
-34-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dajac\.gradle\caches\transforms-3\86bbdb4c704f0c6ef69f85fd6941d5d8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+34-->[androidx.emoji2:emoji2:1.0.0] /Users/st2020117/.gradle/caches/transforms-3/86bbdb4c704f0c6ef69f85fd6941d5d8/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
 35            android:name="androidx.startup.InitializationProvider"
-35-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dajac\.gradle\caches\transforms-3\86bbdb4c704f0c6ef69f85fd6941d5d8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
+35-->[androidx.emoji2:emoji2:1.0.0] /Users/st2020117/.gradle/caches/transforms-3/86bbdb4c704f0c6ef69f85fd6941d5d8/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
 36            android:authorities="com.strapp.ep_recursosapi.androidx-startup"
-36-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dajac\.gradle\caches\transforms-3\86bbdb4c704f0c6ef69f85fd6941d5d8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
+36-->[androidx.emoji2:emoji2:1.0.0] /Users/st2020117/.gradle/caches/transforms-3/86bbdb4c704f0c6ef69f85fd6941d5d8/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
 37            android:exported="false" >
-37-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dajac\.gradle\caches\transforms-3\86bbdb4c704f0c6ef69f85fd6941d5d8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37
+37-->[androidx.emoji2:emoji2:1.0.0] /Users/st2020117/.gradle/caches/transforms-3/86bbdb4c704f0c6ef69f85fd6941d5d8/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
 38            <meta-data
-38-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dajac\.gradle\caches\transforms-3\86bbdb4c704f0c6ef69f85fd6941d5d8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+38-->[androidx.emoji2:emoji2:1.0.0] /Users/st2020117/.gradle/caches/transforms-3/86bbdb4c704f0c6ef69f85fd6941d5d8/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
 39                android:name="androidx.emoji2.text.EmojiCompatInitializer"
-39-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dajac\.gradle\caches\transforms-3\86bbdb4c704f0c6ef69f85fd6941d5d8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:32:17-75
+39-->[androidx.emoji2:emoji2:1.0.0] /Users/st2020117/.gradle/caches/transforms-3/86bbdb4c704f0c6ef69f85fd6941d5d8/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
 40                android:value="androidx.startup" />
-40-->[androidx.emoji2:emoji2:1.0.0] C:\Users\dajac\.gradle\caches\transforms-3\86bbdb4c704f0c6ef69f85fd6941d5d8\transformed\jetified-emoji2-1.0.0\AndroidManifest.xml:33:17-49
+40-->[androidx.emoji2:emoji2:1.0.0] /Users/st2020117/.gradle/caches/transforms-3/86bbdb4c704f0c6ef69f85fd6941d5d8/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
 41            <meta-data
-41-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\dajac\.gradle\caches\transforms-3\60fb03f7868607ff1baa13fa3ab998ab\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+41-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/st2020117/.gradle/caches/transforms-3/60fb03f7868607ff1baa13fa3ab998ab/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
 42                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
-42-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\dajac\.gradle\caches\transforms-3\60fb03f7868607ff1baa13fa3ab998ab\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+42-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/st2020117/.gradle/caches/transforms-3/60fb03f7868607ff1baa13fa3ab998ab/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
 43                android:value="androidx.startup" />
-43-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\dajac\.gradle\caches\transforms-3\60fb03f7868607ff1baa13fa3ab998ab\transformed\jetified-lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+43-->[androidx.lifecycle:lifecycle-process:2.4.0] /Users/st2020117/.gradle/caches/transforms-3/60fb03f7868607ff1baa13fa3ab998ab/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
 44        </provider>
 45    </application>
 46

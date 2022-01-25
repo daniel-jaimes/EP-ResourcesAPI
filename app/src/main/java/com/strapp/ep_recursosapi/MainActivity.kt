@@ -7,6 +7,7 @@ import android.widget.EditText
 import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
+import com.strapp.ep_recursosapi.data.model.AbilityGroup
 import com.strapp.ep_recursosapi.data.model.Pokemon
 import com.strapp.ep_recursosapi.data.remote.JSONPlaceHolderAPIService
 import retrofit2.Call
@@ -36,14 +37,14 @@ class MainActivity : AppCompatActivity() {
 
     fun getPokemon(view_: android.view.View) {
         closeKeyBoard()
-        val id_name = id_namePokemon.text
+        val id_name = id_namePokemon.text.toString()
         resultPokemon.text = null
         if((id_namePokemon.text.toString() == "")){
             Toast.
             makeText(applicationContext,"No hay nada escrito",Toast.LENGTH_SHORT).
             show()
         } else {
-            val pk : Call<Pokemon> = apiService.getPok(id_name.toString())
+            val pk : Call<Pokemon> = apiService.getPok(id_name)
             pk.enqueue(object : Callback<Pokemon> {
                 override fun onResponse(call: Call<Pokemon>, response: Response<Pokemon>) {
                     if(!response.isSuccessful){
@@ -52,18 +53,16 @@ class MainActivity : AppCompatActivity() {
                         show()
                         return
                     }
-                    val pk : Pokemon? = response.body()
-                    if (pk != null) {
+                    val pokemon : Pokemon? = response.body()
+                    if (pokemon != null) {
                         var content = ""
-                        content += "Nombre: " + pk.name + "\n"
-                        content += "Altura: " + pk.height + "\n"
-                        content += "Peso: " + pk.weight + "\n"
+                        content += "Nombre: " + pokemon.name + "\n"
+                        content += "Altura: " + pokemon.height + "\n"
+                        content += "Peso: " + pokemon.weight + "\n"
                         content += "Habilidades: " + "\n"
-                        for(sk: Any in pk.abilities){
-                            //CUTRE NO... LO SIGUIENTE...
-                            val begin_index : Int = sk.toString().indexOf("name=")
-                            val end_index : Int = sk.toString().indexOf(", url")
-                            content += " - " + sk.toString().substring(begin_index+5, end_index) + "\n"
+                        val abilitiesGroup : List<AbilityGroup> = pokemon.abilities
+                        for(ability in abilitiesGroup){
+                            content += " - " + ability.ability.name
                         }
                         resultPokemon.text = content
                     }
